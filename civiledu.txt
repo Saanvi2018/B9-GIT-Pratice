@@ -1,3 +1,5 @@
 Git and GITHUB classes
 
-DevOps classes
+DevOps Classes & culture
+
+Git is dev by Linus Torvalds
